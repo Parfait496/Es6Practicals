@@ -1,0 +1,22 @@
+1. Template literals
+
+.easy multi lines strings
+. easy concatenation of strings
+- easy mathematics
+
+2. Destructuring objects
+3. Destructuring Arrays
+4. object literral/challenge
+5. For of loop
+6. spread operator
+7. rest operator
+8.arrow functions
+9. Default params
+10. includes()
+11.let and const
+12. import and export
+13.paStart and padEnd
+14. classes
+15.trailing commas
+16.async and await
+17. sets
