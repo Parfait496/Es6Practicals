@@ -10,9 +10,11 @@ const person = {
     age: 25
 }
 
-const find = function findProperty(obj, key) {
+const findProperty =(obj, key) => {
     return key in person? person[key]: `Property not found`;
 }
 
-console.log(find(person, "city"));
+console.log(findProperty(person, "city")); // Property not found
+console.log(findProperty(person, "name")); // Alice
+
 
